@@ -1,0 +1,14 @@
+C:\Users\Kab-31-14\Desktop\P30(1)\bin\Debug\P30(1).exe.config
+C:\Users\Kab-31-14\Desktop\P30(1)\bin\Debug\P30(1).exe
+C:\Users\Kab-31-14\Desktop\P30(1)\bin\Debug\P30(1).pdb
+C:\Users\Kab-31-14\Desktop\P30(1)\obj\Debug\P30(1).csproj.AssemblyReference.cache
+C:\Users\Kab-31-14\Desktop\P30(1)\obj\Debug\P30(1).csproj.CoreCompileInputs.cache
+C:\Users\Kab-31-14\Desktop\P30(1)\obj\Debug\P30(1).exe
+C:\Users\Kab-31-14\Desktop\P30(1)\obj\Debug\P30(1).pdb
+C:\Users\sasam\Downloads\prac 30\prac 30.1\bin\Debug\P30(1).exe.config
+C:\Users\sasam\Downloads\prac 30\prac 30.1\bin\Debug\P30(1).exe
+C:\Users\sasam\Downloads\prac 30\prac 30.1\bin\Debug\P30(1).pdb
+C:\Users\sasam\Downloads\prac 30\prac 30.1\obj\Debug\P30(1).csproj.AssemblyReference.cache
+C:\Users\sasam\Downloads\prac 30\prac 30.1\obj\Debug\P30(1).csproj.CoreCompileInputs.cache
+C:\Users\sasam\Downloads\prac 30\prac 30.1\obj\Debug\P30(1).exe
+C:\Users\sasam\Downloads\prac 30\prac 30.1\obj\Debug\P30(1).pdb
